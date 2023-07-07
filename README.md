@@ -1,10 +1,12 @@
 #  Steam Username generator
 Generates random usernames for custom link on steam
 
+<a href="https://github.com/d3lighte/steam-usernames-generator/edit/main/LEGALNOTICE.md">Legal Notice</a>
+
 ## Usage
 Install dependenciens
 ```
-pip install aiohttp aiofiles
+pip install aiohttp aiofiles loguru
 ```
 Run it
 ```
