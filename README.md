@@ -21,3 +21,5 @@ python main.py
 
 ### Example of work
 <img width="500" alt="Example." src="https://github.com/d3lighte/steam-usernames-generator/blob/main/images/example.png">
+
+All usernames will be saved at data/nicks.txt
