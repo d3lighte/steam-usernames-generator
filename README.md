@@ -1,4 +1,4 @@
-#steam Username generator
+# Steam Username generator
 Generates random usernames for custom link on steam
 
 <a href="https://github.com/d3lighte/steam-usernames-generator/blob/main/LEGALNOTICE.md">Legal Notice</a>
